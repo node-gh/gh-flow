@@ -1,10 +1,10 @@
-# GH Boilerplate [![NPM version](https://badge.fury.io/js/gh-boilerplate.png)](http://badge.fury.io/js/gh-boilerplate) [![Dependency Status](https://david-dm.org/node-gh/gh-boilerplate.png)](https://david-dm.org/node-gh/gh-boilerplate)
+# GH Flow [![NPM version](https://badge.fury.io/js/gh-flow.png)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.png)](https://david-dm.org/node-gh/gh-flow)
 
-![Puppeteer Octocat](http://zno.io/RMHw/puppeteer.png)
+![Dodgetocat](http://zno.io/RN5D/dodgetocat.png)
 
-A NodeGH plugin for demonstrating how to create NodeGH plugins :)
+NodeGH plugin for [GitFlow](https://github.com/nvie/gitflow), a successful Git branching model.
 
-> Maintained by [Your Name](https://github.com/yourname).
+> Maintained by [Elad Elrom](https://github.com/eladelrom).
 
 ## Install
 
