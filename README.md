@@ -2,7 +2,7 @@
 
 ![Dodgetocat](http://zno.io/RN5D/dodgetocat.png)
 
-NodeGH plugin for [GitFlow](https://github.com/nvie/gitflow), a successful Git branching model.
+NodeGH plugin for integrating [GitFlow](https://github.com/nvie/gitflow), a successful Git branching model.
 
 > Maintained by [Elad Elrom](https://github.com/eladelrom).
 
