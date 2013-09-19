@@ -1,4 +1,4 @@
-# GH Flow [![NPM version](https://badge.fury.io/js/gh-flow.png)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.png)](https://david-dm.org/node-gh/gh-flow)
+# GH Flow [![Build Status](https://secure.travis-ci.org/node-gh/gh-flow.png?branch=master)](https://travis-ci.org/node-gh/gh-flow) [![NPM version](https://badge.fury.io/js/gh-flow.png)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.png)](https://david-dm.org/node-gh/gh-flow)
 
 ![Dodgetocat](http://zno.io/RN5D/dodgetocat.png)
 
@@ -37,6 +37,22 @@ gh bo
 	```
 gh bo --foo
 	```
+
+## Testing
+
+Check [Travis](https://travis-ci.org/node-gh/gh-boilerplate) for continous integration results.
+
+* Run [JSHint](http://www.jshint.com/), a tool to detect errors and potential problems.
+
+    ```
+npm run-script lint
+    ```
+
+* Run [Mocha](http://visionmedia.github.io/mocha/), a unit test framework.
+
+    ```
+npm run-script test
+    ```
 
 ## Contributing
 
