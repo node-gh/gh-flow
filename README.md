@@ -1,4 +1,4 @@
-# GH Flow [![Build Status](https://secure.travis-ci.org/node-gh/gh-flow.png?branch=master)](https://travis-ci.org/node-gh/gh-flow) [![NPM version](https://badge.fury.io/js/gh-flow.png)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.png)](https://david-dm.org/node-gh/gh-flow)
+# GH Flow [![Build Status](https://secure.travis-ci.org/node-gh/gh-flow.svg?branch=master)](https://travis-ci.org/node-gh/gh-flow) [![NPM version](https://badge.fury.io/js/gh-flow.svg)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.svg?theme=badge.io)](https://david-dm.org/node-gh/gh-flow)
 
 ![Dodgetocat](http://zno.io/RN5D/dodgetocat.png)
 
