@@ -1,7 +1,5 @@
 # GH Flow [![Build Status](https://secure.travis-ci.org/node-gh/gh-flow.svg?branch=master)](https://travis-ci.org/node-gh/gh-flow) [![NPM version](https://badge.fury.io/js/gh-flow.svg)](http://badge.fury.io/js/gh-flow) [![Dependency Status](https://david-dm.org/node-gh/gh-flow.svg?theme=badge.io)](https://david-dm.org/node-gh/gh-flow)
 
-![Dodgetocat](https://cloud.githubusercontent.com/assets/398893/3528234/42725954-078d-11e4-8835-6156da9bc4a1.png)
-
 NodeGH plugin for integrating [GitFlow](https://github.com/nvie/gitflow), a successful Git branching model.
 
 > Maintained by [Elad Elrom](https://github.com/eladelrom).
